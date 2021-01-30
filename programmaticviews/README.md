@@ -6,5 +6,5 @@ Notice the TextViews have height that automatically expand (WRAP_CONTENT) while 
 So no matter how big the first text view (how much vertical space it took), the second view is able to adjust its Y position because of the constraint  
 
 ## Result
-|![](demo.jpg)|  
+|![](demo.jpg)
   
